@@ -2,8 +2,9 @@
 A WhatsApp clone made using Flutter.
 
 ## Screenshots
-![chat_Screen](https://user-images.githubusercontent.com/48143957/83223051-96c75180-a197-11ea-8945-d89f11a015b2.jpeg)
-![status_screen](https://user-images.githubusercontent.com/48143957/83223045-92029d80-a197-11ea-869a-e91f6846548c.jpeg)
 
-![camera_screen](https://user-images.githubusercontent.com/48143957/83223054-97f87e80-a197-11ea-80d0-6c0a45712568.jpeg)
+![whatsapp_chat](https://user-images.githubusercontent.com/48143957/90973795-efae4800-e542-11ea-85e9-e766bb4ff53f.jpeg)
+![whatapp_status](https://user-images.githubusercontent.com/48143957/90973796-f046de80-e542-11ea-9ea8-a763b8e4e43f.jpeg)
+![whatsapp_cam](https://user-images.githubusercontent.com/48143957/90973793-ee7d1b00-e542-11ea-9cc2-89f1c8dc004c.jpeg)
+
 
